@@ -7,7 +7,7 @@ I am a Brazilian physician with more than a decade of clinical practice in adult
 
 As Founder and CMO of FNG Medical, I work on early-stage AI applications and software for healthcare, connecting clinical practice with structured documentation, workflow design and patient safety.
 
-[LinkedIn](https://www.linkedin.com/in/matheus-fachini-nascimento-420244a4/)
+[LinkedIn](https://www.linkedin.com/in/matheus-fachini-nascimento-420244a4/) · [Curriculum vitae - English PDF](https://github.com/matheusfng/curriculum-vitae/blob/main/1-Matheus_Fachini_Nascimento_CV_EN.pdf)
 
 ## Clinical practice
 
